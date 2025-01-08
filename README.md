@@ -7,3 +7,4 @@ Another addition in github.dev
 
 Yet another change in Codespaces
 
+Second time opening and adding in Codespaces after shutting down
